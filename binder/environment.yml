@@ -2,7 +2,7 @@
 # this environment may also be used locally on Linux/MacOS/Windows, e.g.
 #
 #   conda env update --file binder/environment.yml
-#   conda activate jupyterlab_theme_sophon-demo
+#   conda activate jupyterlab_theme_lll-demo
 #
 name: jupyterlab_theme_lll-demo
 
