@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jupyterlab-theme-lll.iml" filepath="$PROJECT_DIR$/.idea/jupyterlab-theme-lll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jupyterlab-theme-sophon.iml" filepath="$PROJECT_DIR$/.idea/jupyterlab-theme-sophon.iml" />
+    </modules>
+  </component>
+</project>
