@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/jupyterlab_theme_lll.iml" filepath="$PROJECT_DIR$/.idea/jupyterlab_theme_lll.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/jupyterlab-theme-lll.iml" filepath="$PROJECT_DIR$/.idea/jupyterlab-theme-lll.iml" />
     </modules>
   </component>
 </project>
