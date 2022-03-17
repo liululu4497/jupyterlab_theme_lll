@@ -150,37 +150,37 @@
         <subPane>
           <expand>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
               <item name=".github" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
               <item name=".github" type="462c0819:PsiDirectoryNode" />
               <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
               <item name="binder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
               <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jupyterlab-theme-lll" type="462c0819:PsiDirectoryNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jupyterlab-theme-lll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jupyterlab_theme_lll" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
