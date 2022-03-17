@@ -12,7 +12,7 @@
     "url": "https://github.com/liululu4497/jupyterlab_theme_lll/issues"
   },
   "license": "BSD-3-Clause",
-  "author": "Stefano Pigozzi",
+  "author": "Liu lulu",
   "files": [
     "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
     "style/**/*.{css,eot,gif,html,jpg,json,png,svg,woff2,ttf}"
